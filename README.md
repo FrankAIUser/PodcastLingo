@@ -7,22 +7,69 @@ PodcastLingo is a modern web application designed to help users learn English th
 ## Features
 
 ### 🎧 Podcast Learning
-- **Curated Content**: Diverse collection of podcasts across various topics
-- **Difficulty Levels**: Content categorized into Beginner, Intermediate, and Advanced
-- **Interactive Transcripts**: Real-time synchronized transcripts with audio playback
-- **Vocabulary Highlights**: Key terms and phrases highlighted with definitions
+- **Curated Content**: 
+  - Hand-picked podcasts from native English speakers
+  - Topics include business, technology, culture, and daily life
+  - New content added weekly
+  - Downloadable episodes for offline learning
+- **Difficulty Levels**: 
+  - Beginner: Slower speech rate, basic vocabulary
+  - Intermediate: Natural speech with clear pronunciation
+  - Advanced: Native-speed conversations, complex topics
+- **Interactive Transcripts**: 
+  - Word-by-word highlighting during playback
+  - Click any word to jump to that timestamp
+  - Toggle between full and simplified transcripts
+  - Dual language support for selected content
+- **Vocabulary Highlights**: 
+  - AI-powered identification of key terms
+  - Context-based definitions and examples
+  - Pronunciation guides with IPA notation
+  - Collocation suggestions and usage notes
 
 ### 📚 Learning Tools
-- **Vocabulary Collection**: Save and review important words and phrases
-- **Interactive Quizzes**: Test comprehension after each podcast
-- **Progress Tracking**: Monitor learning progress with detailed statistics
-- **Study Streaks**: Maintain motivation with daily study tracking
+- **Vocabulary Collection**: 
+  - Personal vocabulary lists with spaced repetition
+  - Export options for external study tools
+  - Custom categorization and tagging
+  - Audio pronunciation for each saved word
+- **Interactive Quizzes**: 
+  - Multiple quiz types (MCQ, fill-in-blanks, listening)
+  - Adaptive difficulty based on performance
+  - Immediate feedback with explanations
+  - Review mode for missed questions
+- **Progress Tracking**: 
+  - Detailed analytics dashboard
+  - Weekly and monthly progress reports
+  - Vocabulary retention metrics
+  - Time spent learning statistics
+- **Study Streaks**: 
+  - Daily learning goals and achievements
+  - Customizable streak targets
+  - Reminder notifications
+  - Social sharing of achievements
 
 ### 🎯 Personalization
-- **Saved Clips**: Create and save important segments from podcasts
-- **Personal Notes**: Add notes to saved clips and vocabulary items
-- **Favorites**: Bookmark podcasts for later listening
-- **Learning Path**: Customized content recommendations based on progress
+- **Saved Clips**: 
+  - Create custom audio snippets
+  - Add personal annotations
+  - Share clips with other learners
+  - Practice mode for clip repetition
+- **Personal Notes**: 
+  - Rich text editor for note-taking
+  - Tag system for organization
+  - Search across all notes
+  - Export options in multiple formats
+- **Favorites**: 
+  - Smart playlist creation
+  - Custom episode ordering
+  - Category-based organization
+  - Quick access to frequent content
+- **Learning Path**: 
+  - AI-powered content suggestions
+  - Skill-based progression system
+  - Interest-based recommendations
+  - Adaptive learning speed
 
 ## Tech Stack
 
